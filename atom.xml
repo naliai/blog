@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://naliai.github.io/blog/</id>
+    <id>https://naliai.github.io/blog/</id>
     <title>贫穷的Java开发工程师</title>
-    <updated>2020-08-22T08:11:08.927Z</updated>
+    <updated>2020-08-22T08:11:39.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://naliai.github.io/blog/"/>
-    <link rel="self" href="https://https://naliai.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://naliai.github.io/blog/"/>
+    <link rel="self" href="https://naliai.github.io/blog/atom.xml"/>
     <subtitle>Coding is my life.</subtitle>
-    <logo>https://https://naliai.github.io/blog/images/avatar.png</logo>
-    <icon>https://https://naliai.github.io/blog/favicon.ico</icon>
+    <logo>https://naliai.github.io/blog/images/avatar.png</logo>
+    <icon>https://naliai.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2020, 贫穷的Java开发工程师</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://naliai.github.io/blog/post/hello-gridea/</id>
-        <link href="https://https://naliai.github.io/blog/post/hello-gridea/">
+        <id>https://naliai.github.io/blog/post/hello-gridea/</id>
+        <link href="https://naliai.github.io/blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
